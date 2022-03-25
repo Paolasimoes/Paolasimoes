@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paolasimoes
 - 👀 I’m interested in 3D Printing and Design 
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity/HTML/CSS/Python
 - 📫 How to reach me paola.simoesg@gmail.com
 
 <!---
